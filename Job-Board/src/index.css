@@ -8,6 +8,8 @@ body{
   background-color: #fffaec;
   color: rgb(14, 14, 14);
   font-family: monospace;
+  display: grid;
+  place-content: center;
 }
 
 .job-board{
